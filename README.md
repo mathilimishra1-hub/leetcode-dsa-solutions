@@ -34,5 +34,5 @@ LeetCode-Java/
 ├── DynamicProgramming/
 └── README.md
 
-## Author
+## 👩‍💻 Author
 Mathili Mishra
